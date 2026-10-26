@@ -1,0 +1,11 @@
+.box {
+    background-color: #aef;
+    width: 400px;
+    padding: 2rem;
+    margin: 1rem;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+}
